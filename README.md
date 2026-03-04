@@ -39,8 +39,8 @@
   </a>
 </p>
 
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=nerdemon&icon=0&color=0" alt="Profile Visit"/>
+  <a href="https://github.com/nerdemon">
+    <img src="https://komarev.com/ghpvc/?username=nerdemon&style=flat-square&color=blue" alt="Profile Visit"/>
   </a>
 </div>
 
@@ -82,17 +82,28 @@
 
 <div align="center">
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=nerdemon&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Stats" />
   <br/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=nerdemon&theme=dark&hide_border=false" alt="Streak" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nerdemon&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Langs" />
+ 
   <br/><br/>
   <h3>✍️ Random Dev Quote</h3>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
   <br/><br/>
   <h3>🔝 Top Contributed Repo</h3>
   <img src="https://github-contributor-stats.vercel.app/api?username=nerdemon&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+</div>
+
+---
+
+## 🐍 My Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nerdemon/nerdemon/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nerdemon/nerdemon/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nerdemon/nerdemon/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 ---
